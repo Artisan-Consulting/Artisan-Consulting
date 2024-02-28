@@ -1,5 +1,5 @@
 # William Kwan - Software Professional
-
+6797.jpg
 👋 Hi there! I'm passionate about designing and building user-centric software applications.
 
 ## As a Database Specialist:
