@@ -1,5 +1,6 @@
+!Bio Background 6797.jpg
 # William Kwan - Software Professional
-!Alt text 6797.jpg
+
 👋 Hi there! I'm passionate about designing and building user-centric software applications.
 
 ## As a Database Specialist:
