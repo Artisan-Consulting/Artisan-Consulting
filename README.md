@@ -1,4 +1,4 @@
-!Bio Background Artisan-Consulting/6797.jpg
+!Bio Background /Artisan-Consulting/6797.jpg
 # William Kwan - Software Professional
 
 👋 Hi there! I'm passionate about designing and building user-centric software applications.
