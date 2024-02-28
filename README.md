@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![Connecting Dots Background](6797.jpg")
 # William Kwan - Software Professional
 
 👋 Hi there! I'm passionate about designing and building user-centric software applications.
