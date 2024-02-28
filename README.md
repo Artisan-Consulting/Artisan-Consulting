@@ -1,4 +1,4 @@
-![Connecting Dots Background](6797.jpg")
+![Connecting Dots Background](/6797.jpg")
 # William Kwan - Software Professional
 
 👋 Hi there! I'm passionate about designing and building user-centric software applications.
