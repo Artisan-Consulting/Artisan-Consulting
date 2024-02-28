@@ -22,6 +22,7 @@ I'm a visionary who shapes technology roadmaps. My strategic thinking guides org
 📫 You can reach me on [LinkedIn](https://linkedin.com/in/williamkwan-consultant).
 🌟 **Motto**: *"Nothing is impossible if you believe in yourself."*
 
+---
 ⚡ **Fun fact**: Approximately 70% to 95% of digital transformation projects fail!
 
 🌟 The 5 Key Reasons for Failure are:
