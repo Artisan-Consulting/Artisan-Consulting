@@ -1,4 +1,4 @@
-![software engineering backgroiund](https://getwallpapers.com/wallpaper/full/3/9/7/1201922-coding-wallpaper-hd-1920x1080-for-tablet.jpg)
+![software engineering backgroiund](https://linkedinbackground.com/download/1076/1076-The-Code.jpg)
 # William Kwan - Software Professional
 
 [](https://github.com/Artisan-Consulting/Artisan-Consulting/blob/main/README.md#william-kwan---software-professional)
