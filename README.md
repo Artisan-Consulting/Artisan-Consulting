@@ -1,6 +1,6 @@
-![software engineering backgroiund](https://linkedinbackground.com/download/1076/1076-The-Code.jpg)
+![software engineering background](https://linkedinbackground.com/download/1076/1076-The-Code.jpg)
 # William Kwan - Software Professional
---
+----------
 [](https://github.com/Artisan-Consulting/Artisan-Consulting/blob/main/README.md#william-kwan---software-professional)
 
 👋 Hi there! I'm passionate about designing and building user-centric software applications.
@@ -29,7 +29,7 @@ I serve as the bridge between technology and business. My analytical prowess hel
 
 I'm a visionary who shapes technology roadmaps. My strategic thinking guides organizations toward digital transformation.
 
--   **Key Skills**: IT strategy, Business process re-engineering, Total Quality Managment TQM.
+-   **Key Skills**: IT strategy, Business process re-engineering, Total Quality management TQM.
 -   **Impact**: I've empowered businesses to adapt, innovate, and thrive in the ever-evolving tech landscape.
 
 🌱 I thrive on solving complex problems and creating impactful solutions. Currently, I'm learning full-stack software engineering. 💞️ I’m looking to collaborate on start-up projects. 📫 You can reach me on  [LinkedIn](https://linkedin.com/in/williamkwan-consultant). 🌟  **Motto**:  _"Nothing is impossible if you believe in yourself."_
