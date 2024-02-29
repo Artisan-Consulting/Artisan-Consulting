@@ -14,7 +14,7 @@ I serve as the bridge between technology and business. My analytical prowess hel
 
 ## As a Strategic IT Consultant:
 I'm a visionary who shapes technology roadmaps. My strategic thinking guides organizations toward digital transformation.
-- **Key Skills**: IT strategy, risk assessment, vendor management, and change management.
+- **Key Skills**: IT strategy, Business process re-engineering, Total Quality Managment TQM.
 - **Impact**: I've empowered businesses to adapt, innovate, and thrive in the ever-evolving tech landscape.
 
 🌱 I thrive on solving complex problems and creating impactful solutions. Currently, I'm learning full-stack software engineering.
