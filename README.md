@@ -1,4 +1,4 @@
-# William Kwan - Software Professional *[Markdown Guide](https://www.markdownguide.org)*.
+# William Kwan - Software Professional 
 
 👋 Hi there! I'm passionate about designing and building user-centric software applications.
 
