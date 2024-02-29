@@ -1,4 +1,3 @@
-![Connecting Dots Background](banner-metaphor-communication.jpg)
 # William Kwan - Software Professional
 
 👋 Hi there! I'm passionate about designing and building user-centric software applications.
